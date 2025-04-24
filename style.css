@@ -117,6 +117,8 @@ padding: 1%;
 
 }
 .footer{
+    text-align: center;
     background-color: rgba(87, 192, 234, 0.797);
-    
+    width: 100%;
+
 }
